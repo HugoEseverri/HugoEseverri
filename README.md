@@ -3,7 +3,7 @@
 <p align="left" style="font-family: Arial, sans-serif; color: #34495e; font-size: 1.2em;">¿Qué tal?</p>
 
 <p style="font-family: Arial, sans-serif; color: #7f8c8d; line-height: 1.6;">
-  Soy un Front-End Developer que tiene mucha pasión por crear experiencias web interactivas y responsivas. A través de mi viaje en la programación, aprendí a transformar ideas en interfaces funcionales utilizando HTML, CSS, SASS, JavaScript, TypeScript y otros frameworks como Next.js y Vite. Mi objetivo es seguir explorando nuevas tecnologías y crear proyectos que no solo sean visualmente atractivos, sino también eficientes y fáciles de usar.
+  Soy un Fullstack Developer con orientación a Front-End que tiene mucha pasión por crear experiencias web interactivas y responsivas. A través de mi viaje en la programación, aprendí a transformar ideas en interfaces funcionales utilizando HTML, CSS, SASS, JavaScript, TypeScript, Express, Node, PostgreeSQL, Mongo y otros frameworks como Next.js y Vite. Mi objetivo es seguir explorando nuevas tecnologías y crear proyectos que no solo sean visualmente atractivos, sino también eficientes y fáciles de usar.
 </p>
 
 <p style="font-family: Arial, sans-serif; color: #3498db; font-size: 1.3em; font-weight: bold;">🚀 ¿Querés saber qué hago?</p>
