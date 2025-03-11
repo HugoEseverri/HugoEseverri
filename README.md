@@ -32,6 +32,15 @@
   Si tenés algún proyecto o idea interesante, no dudes un segundo en contactarme. Siempre estoy dispuesto a colaborar o intercambiar ideas sobre desarrollo web.
 </p>
 
+<p style="font-family: Arial, sans-serif; color: #34495e; line-height: 1.6;">
+  ## 📬 Contacto  
+Si querés ponerte en contacto conmigo, acá tenés algunas formas de hacerlo:  
+
+📧 **Email:** [hugooeseverri@gmail.com](mailto:tuemail@gmail.com)  
+🔗 **LinkedIn:** [[linkedin.com/in/tuusuario](https://www.linkedin.com/in/hugo-omar-eseverri-797113a7/)](https://linkedin.com/in/tuusuario)   
+  
+</p>
+
 <h3 align="left" style="font-family: Arial, sans-serif; color: #2c3e50;">Lenguajes y Herramientas:</h3>
 
 <p align="left" style="font-family: Arial, sans-serif; color: #34495e;">
