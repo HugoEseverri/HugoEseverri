@@ -37,7 +37,7 @@
 Si querés ponerte en contacto conmigo, acá tenés algunas formas de hacerlo:  
 
 📧 **Email:** [hugooeseverri@gmail.com](mailto:tuemail@gmail.com)  
-🔗 **LinkedIn:** [[linkedin.com/in/tuusuario](https://www.linkedin.com/in/hugo-omar-eseverri-797113a7/)](https://linkedin.com/in/tuusuario)   
+🔗 **LinkedIn:** [[https://www.linkedin.com/in/hugo-omar-eseverri-797113a7/]](https://linkedin.com/in/tuusuario)   
   
 </p>
 
