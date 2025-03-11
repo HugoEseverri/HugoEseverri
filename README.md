@@ -36,8 +36,8 @@
   ## 📬 Contacto  
 Si querés ponerte en contacto conmigo, acá tenés algunas formas de hacerlo:  
 
-📧 **Email:** [huugoeseverri@gmail.com](mailto:huugoeseverri@gmail.com)  
-🔗 **LinkedIn:** [Hugo Omar Eseverri](https://www.linkedin.com/in/hugo-omar-eseverri-797113a7/)  
+📧 **Email:** [hugooeseverri@gmail.com](mailto:hugooeseverri@gmail.com)  
+🔗 **LinkedIn:** [Hugo Omar Eseverri](https://www.linkedin.com/in/hugo-omar-eseverri)  
   
 </p>
 
