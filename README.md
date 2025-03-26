@@ -3,7 +3,7 @@
 <p align="left" style="font-family: Arial, sans-serif; color: #34495e; font-size: 1.2em;">¿Qué tal?</p>
 
 <p style="font-family: Arial, sans-serif; color: #7f8c8d; line-height: 1.6;">
-  Soy un Fullstack Developer con orientación a Front-End que tiene mucha pasión por crear experiencias web interactivas y responsivas. A través de mi viaje en la programación, aprendí a transformar ideas en interfaces funcionales utilizando HTML, CSS, SASS, JavaScript, TypeScript, Express, Node, PostgreeSQL, Mongo y otros frameworks como Next.js y Vite. Mi objetivo es seguir explorando nuevas tecnologías y crear proyectos que no solo sean visualmente atractivos, sino también eficientes y fáciles de usar.
+  Soy un Fullstack Developer con orientación a Front-End que tiene mucha pasión por crear experiencias web interactivas y responsivas. A través de mi viaje en la programación, aprendí a transformar ideas en interfaces funcionales utilizando HTML, CSS, SASS, JavaScript, TypeScript, Express, Node, PostgreeSQL, Mongo y otros frameworks como Next.js, Vite y Angular. Mi objetivo es seguir explorando nuevas tecnologías y crear proyectos que no solo sean visualmente atractivos, sino también eficientes y fáciles de usar.
 </p>
 
 <p style="font-family: Arial, sans-serif; color: #3498db; font-size: 1.3em; font-weight: bold;">🚀 ¿Querés saber qué hago?</p>
@@ -23,7 +23,7 @@
 
 <p style="font-family: Arial, sans-serif; color: #34495e; line-height: 1.6;">
   🌱 <strong>Actualmente estoy aprendiendo 🤓:</strong><br/>
-  JavaScript avanzado, TypeScript y React.js para mejorar mis habilidades en el desarrollo front-end.<br/>
+  JavaScript avanzado, TypeScript, Angular y React.js para mejorar mis habilidades en el desarrollo front-end.<br/>
   Node.js y Express para comprender mejor el desarrollo full-stack.
 </p>
 
@@ -85,5 +85,8 @@ Si querés ponerte en contacto conmigo, acá tenés algunas formas de hacerlo:
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://www.angular.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40" style="margin-right: 15px;"/>
   </a>
 </p>
