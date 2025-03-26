@@ -15,10 +15,10 @@
   ⚙️ <strong>Optimización de Estilos:</strong> Utilizo SASS para escribir CSS más limpio y escalable. ¡También hago uso de Bootstrap y Tailwind!
 </p>
 <p style="font-family: Arial, sans-serif; color: #34495e; line-height: 1.6;">
-  🔄 <strong>React.js & Next.js:</strong> Construyo aplicaciones dinámicas y rápidas para una experiencia de usuario fluida.
+  🔄 <strong>React.js, Next.js y Angular:</strong> Construyo aplicaciones dinámicas y rápidas para una experiencia de usuario fluida.
 </p>
 <p style="font-family: Arial, sans-serif; color: #34495e; line-height: 1.6;">
-  💡 <strong>Proyectos Reales:</strong> A lo largo de mi formación, trabajé en proyectos prácticos que me permitieron aplicar mis conocimientos enfocados en el uso de un entorno real.
+  💡 <strong>Proyectos Reales:</strong> A lo largo de mi formación, trabajé en proyectos prácticos que me permitieron aplicar mis conocimientos y enfocarlosen problematicas de un entorno real.
 </p>
 
 <p style="font-family: Arial, sans-serif; color: #34495e; line-height: 1.6;">
@@ -33,7 +33,7 @@
 </p>
 
 <p style="font-family: Arial, sans-serif; color: #34495e; line-height: 1.6;">
-  ## 📬 Contacto  
+  ## 📬 Contacto:
 Si querés ponerte en contacto conmigo, acá tenés algunas formas de hacerlo:  
 
 📧 **Email:** [hugooeseverri@gmail.com](mailto:hugooeseverri@gmail.com)  
