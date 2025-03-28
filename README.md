@@ -38,7 +38,7 @@ Si querés ponerte en contacto conmigo, acá tenés algunas formas de hacerlo:
 
 📧 **Email:** [hugooeseverri@gmail.com](mailto:hugooeseverri@gmail.com)  
 🔗 **LinkedIn:** [Hugo Omar Eseverri](https://www.linkedin.com/in/hugo-omar-eseverri)  
-  
+🔗 **Portfolio:** [Hugo Omar Eseverri](https://portfoliohugoeseverri.netlify.app/)   
 </p>
 
 <h3 align="left" style="font-family: Arial, sans-serif; color: #2c3e50;">Lenguajes y Herramientas:</h3>
