@@ -22,7 +22,7 @@
 </p>
 
 <p style="font-family: Arial, sans-serif; color: #34495e; line-height: 1.6;">
-  🌱 <strong>Actualmente estoy aprendiendo 🤓:</strong><br/>
+  🌱 <strong>Actualmente sigo perfeccionando 🤓:</strong><br/>
   JavaScript avanzado, TypeScript, Angular y React.js para mejorar mis habilidades en el desarrollo front-end.<br/>
   Node.js y Express para comprender mejor el desarrollo full-stack.
 </p>
